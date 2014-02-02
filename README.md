@@ -24,7 +24,7 @@ That's all. :)
 
 
 
-Installation
+Install & Usage
 ------------
 1. Install the browser script and disable it! (It's necessary to disable and only enable on the pages you want to reload.)
 2. Install the ST3 plugin.
