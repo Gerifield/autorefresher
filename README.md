@@ -39,6 +39,6 @@ Everytime you save somethin in the editor, the page'll reload.
 Credits
 =======
 
-Thanks to [opiate]{https://github.com/opiate} for the [Python SimpleWebSocketServer]{https://github.com/opiate/SimpleWebSocketServer}
-[Tampermonkey]{https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo} plugin for Chrome
-[Sublime Text 3]{http://www.sublimetext.com/3}
+Thanks to [opiate](https://github.com/opiate) for the [Python SimpleWebSocketServer](https://github.com/opiate/SimpleWebSocketServer)
+[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) plugin for Chrome
+[Sublime Text 3](http://www.sublimetext.com/3)
