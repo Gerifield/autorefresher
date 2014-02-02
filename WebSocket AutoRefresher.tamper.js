@@ -4,6 +4,7 @@
 // @version    0.1
 // @description  WebSocket AutoRefresher script to auto reload pages
 // @copyright  2014+, Gerifield
+// @match http://127.0.0.1/*
 // ==/UserScript==
 
 window.addEventListener("load", LocalMain, false);
