@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Websocket test</title>
+
+	<script type="text/javascript">
+
+		var sock = new WebSocket("ws://localhost:9998");
+		sock.onopen = function(){
+			//sock.send("Msg...");
+    		console.log("Connected to the server");
+		};
+
+		sock.onmessage = function(evt){
+			//console.log(evt.data)
+			if(evt.data =="refresh"){
+				window.location.reload();
+			}
+		};
+
+		sock.onclose = function(){
+			console.log("Closed");
+		};
+
+	</script>
+</head>
+<body>
+
+</body>
+</html>
